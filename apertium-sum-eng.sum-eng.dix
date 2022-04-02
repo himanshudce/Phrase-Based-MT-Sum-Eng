@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+<alphabet/>
+<sdefs>
+<sdef n="n"/>
+<sdef n="pn"/>
+<sdef n="nu"/>
+</sdefs>
+
+
+<section id="main" type="standard">
+<e><p><l>Dadani<s n="n"/></l><r>Dadani<s n="n"/></r></p></e>
+<e><p><l>dumu<s n="n"/></l><r>child<s n="n"/></r></p></e>
+<e><p><l>lugal<s n="n"/></l><r>king<s n="n"/></r></p></e>
+<e><p><l>iti<s n="n"/></l><r>month<s n="n"/></r></p></e>
+</section>
+</dictionary>

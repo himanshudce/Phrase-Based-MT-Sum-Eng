@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+
+<alphabet>ABCČĆDDžĐEFGHIJKLLjMNNjOPRSŠTUVZŽabcčćddžđefghijklljmnnjoprsštuvzž-{}()1234567890</alphabet>
+
+
+<sdefs>
+<sdef n="n"/>
+<sdef n="pn"/>
+<sdef n="nu"/>
+</sdefs>
+
+
+<pardef>
+
+<pardef n="Dadani__n">
+<e><p><l/><r><s n="n"/><s n="pn"/></r></p></e>
+</pardef>
+<pardef n="dumu__n">
+<e><p><l/><r><s n="n"/></r></p></e>
+</pardef>
+<pardef n="lugal__n">
+<e><p><l/><r><s n="n"/></r></p></e>
+</pardef>
+<pardef n="iti__n">
+<e><p><l/><r><s n="n"/></r></p></e>
+</pardef>
+
+
+</pardef>
+
+<section id="main" type="standard">
+<e lm="Dadani"><i>da-da-ni</i><par n="Dadani__n"/></e>
+<e lm="dumu"><i>dumu</i><par n="dumu__n"/></e>
+<e lm="lugal"><i>lugal</i><par n="lugal__n"/></e>
+<e lm="iti"><i>iti</i><par n="iti__n"/></e>
+</section>
+
+
+</dictionary>
+
+
